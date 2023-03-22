@@ -16,7 +16,7 @@
         <java.version>1.8</java.version>
         <jersey.version>2.26</jersey.version>
         <slf4j.version>1.7.25</slf4j.version>
-        <tomcat.version>9.0.2</tomcat.version>
+        <tomcat.version>9.0.72</tomcat.version>
     </properties>
 
     <dependencies>
